@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "best_epoch": 26,
+  "val_f1_macro_at_0.5": 0.70070323488045,
+  "val_f1_at_tuned_threshold": 0.5855670103087873,
+  "tuned_threshold": 0.5287210941314697,
+  "checkpoint": "best_model_seed42.pt"
+}
